@@ -1,5 +1,5 @@
 # fun-with-triangles
 
-A simple web app.
-Built with vanillaJS.
+A simple web app.  
+Built with vanillaJS.  
 Have fun with triangles.
